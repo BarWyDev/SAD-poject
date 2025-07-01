@@ -110,7 +110,7 @@ jupyter>=1.0.0
 
 ## Autorzy
 
-[Miejsce na nazwiska członków zespołu]
+[Bartosz Wysocki, Tomasz Kowalski]
 
 ## Licencja
 
